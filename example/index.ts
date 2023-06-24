@@ -36,8 +36,6 @@ const prisma = new PrismaClient().$extends(
   })
 );
 
-prisma.post.
-
 async function main() {
   const user = await prisma.user.findFirst({ where: { id: 1 } });
   const user2 = await prisma.user.findFirst({ where: { id: 1 } })
