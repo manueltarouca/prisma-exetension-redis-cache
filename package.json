@@ -1,8 +1,8 @@
 {
   "name": "prisma-extension-redis-cache",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "author": "manueltarouca",
-  "description": "Prisma extension for",
+  "description": "Prisma extension for redis cache",
   "keywords": [
     "prisma",
     "@prisma/client",
